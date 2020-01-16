@@ -6,18 +6,18 @@
 2. Построить профили распределения концентрации примеси при нескольких временах диффузии
 
 Интерфейс программы:  
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/Screenshots/Dif1.png?raw=true)  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Mod_Z2_Diffuzia/screenshots/Dif1.png?raw=true)  
   
 Второй начальный случай:  
   
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/Screenshots/Dif2.png?raw=true)  
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/Screenshots/Dif3.png?raw=true)  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Mod_Z2_Diffuzia/screenshots/Dif2.png?raw=true)  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Mod_Z2_Diffuzia/screenshots/Dif3.png?raw=true)  
   
 Третий начальный случай:  
   
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/Screenshots/Dif4.png?raw=true)  
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/Screenshots/Dif5.png?raw=true)  
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/Screenshots/Dif6.png?raw=true)  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Mod_Z2_Diffuzia/screenshots/Dif4.png?raw=true)  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Mod_Z2_Diffuzia/screenshots/Dif5.png?raw=true)  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Mod_Z2_Diffuzia/screenshots/Dif6.png?raw=true)  
 
 
 
