@@ -8,7 +8,7 @@
 4. Провести разработку интерфейса программы и графического представления результатов обработки.  
 5. Выполнить статистическую обработку и анализ достоверности полученных результатов.  
       
-###Демонстрация программы:  
+### Демонстрация программы:  
 ![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z3_IT_Image_Filtration/screenshots/Filtration1.png?raw=true)    
 ![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z3_IT_Image_Filtration/screenshots/Filtration2.png?raw=true)    
 ![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z3_IT_Image_Filtration/screenshots/Filtration3.png?raw=true)  
