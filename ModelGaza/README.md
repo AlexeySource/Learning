@@ -7,5 +7,10 @@
 2.	Проследить поведение системы, выводя на экран «мгновенные снимки», среднюю кинетическую, потенциальную и полную энергии частиц на каждом шаге.   
 3.	Исследовать распределение по скоростям молекул двумерного идеального газа для разных начальных температур.  
   
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/ModelGaza/screenshots/ModelGaza1.png?raw=true)    
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/ModelGaza/screenshots/ModelGaza2.png?raw=true)  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/ModelGaza/screenshots/ModelGaza3.png?raw=true)  
+
+  
   
 ### Более подробно см. в отчете в этой папке. (Readme)
