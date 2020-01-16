@@ -8,9 +8,6 @@
 5. С помощью обратного пробразования Фурье восстанавливаем изображение.
       
 ### Демонстрация программы:  
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z3_IT_Image_Filtration/screenshots/Filtration1.png?raw=true)    
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z3_IT_Image_Filtration/screenshots/Filtration2.png?raw=true)    
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z3_IT_Image_Filtration/screenshots/Filtration3.png?raw=true)  
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z3_IT_Image_Filtration/screenshots/Filtration4.png?raw=true)  
-![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z3_IT_Image_Filtration/screenshots/Filtration5.png?raw=true)  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z1_IT_Furea_Noise_Cleaner/screenshots/FureaNoiseCleaner.png?raw=true)    
+
  
