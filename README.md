@@ -1,2 +1,2 @@
 # Learning
-Programs for university
+Programms for university
