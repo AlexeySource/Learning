@@ -18,6 +18,7 @@ e.	“Multitaper Spectrum Estimation.”
 ### Демонстрация программы:  
   
 Интерфейс программы:  
+  
 ![Alt text](https://github.com/AlexeySource/Learning/blob/master/Spectrogram/screenshots/spectrogramm1.png?raw=true)    
     
 Спектрограммы смоделированного ЛЧМ сигнала:  
@@ -26,5 +27,6 @@ e.	“Multitaper Spectrum Estimation.”
 ![Alt text](https://github.com/AlexeySource/Learning/blob/master/Spectrogram/screenshots/spectrogramm3.png?raw=true) 
   
 Спектрограммы смоделированного сигнала (полигармонический синусоидальный сигнал, параметры кажлой синусойды заданы с экрана):  
+  
 ![Alt text](https://github.com/AlexeySource/Learning/blob/master/Spectrogram/screenshots/spectrogramm4.png?raw=true)   
 ![Alt text](https://github.com/AlexeySource/Learning/blob/master/Spectrogram/screenshots/spectrogramm5.png?raw=true)   
