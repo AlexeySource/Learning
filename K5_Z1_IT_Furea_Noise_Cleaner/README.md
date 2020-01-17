@@ -8,6 +8,8 @@
 5. С помощью обратного пробразования Фурье восстанавливаем изображение.
       
 ### Демонстрация программы:  
+![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z1_IT_Furea_Noise_Cleaner/screenshots/FureaNoiseCleaner2.png?raw=true)    
+
 ![Alt text](https://github.com/AlexeySource/Learning/blob/master/K5_Z1_IT_Furea_Noise_Cleaner/screenshots/FureaNoiseCleaner.png?raw=true)    
 
  
