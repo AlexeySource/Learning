@@ -2,7 +2,7 @@
 Programms for university  
 
 **K5_Mod_Z2_Diffuzia** - Исследование двумерного распределения частиц при диффузии с поверхности. Метод случайных блужданий.  
-  
+ [**K5_Mod_Z2_Diffuzia**](https://github.com/AlexeySource/Learning/tree/master/K5_Mod_Z2_Diffuzia)   
 **K5_Z1_IT_Furea_Noise_Cleaner** - Разработка программы, очищающей изображение от шума. 
   
 **K5_Z2_IT_Directiomal_diagramm** - Разработка программы для визуализации диаграммы направленности решетки с излучателями.  
